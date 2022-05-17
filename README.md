@@ -1,4 +1,4 @@
-- Hi, I’m Vishnu Kumar, working as Software Engineer. I work on building website, web API and mobile apps predominately. My professional work involves in C# (.NET/.NET Core), Xamarin.Forms (Cross platform app), Java (Android), Swift (iOS) and whole lot of tools that makes day more productive.
+- Hi, I’m Vishnu Kumar, working as Software Engineer. I am primarly a backend engineer in .NET(C#). My professional work involves in C# (.NET/.NET Core), Xamarin.Forms (Cross platform app), Java (Android), Swift (iOS) and whole lot of tools that makes day more productive.
 - I’m interested in .NET (C#), performance analysis and improvement, code architecture and anything that makes me effective & efficient.
 
 
